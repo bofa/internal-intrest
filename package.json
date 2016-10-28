@@ -1,6 +1,6 @@
 {
   "name": "react-webpack-boilerplate",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Boilerplate for building React app (not components library) with Webpack.",
   "scripts": {
     "start": "cross-env NODE_ENV=development webpack-dev-server",
